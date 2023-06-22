@@ -2,15 +2,12 @@
 <h3 align="center">A Full Stack developer from Colombia</h3>
 
 
-- 🔭 I’m currently working on 
-
 - 🌱 I’m currently learning **Full Stack development**
 
 - 💬 Ask me about **CSS, JavaScript, React, Python and HTML**
 
 - 📫 How to reach me **Materonlove@gmail.com**
 
-- My Linkedin * https://www.linkedin.com/in/mateosanchezmolina/ *   <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Foto linkedin" width="40" height="40">
 
 
 <h3 align="left">Languages and Tools:</h3>
